@@ -40,10 +40,8 @@ Like other VPN this app just bypass network traffic like tcp,udp including dns. 
 # yum install git
 ```
 ##### Install / Upgrade
-```bash
-# git clone https://github.com/diah082/noobzvpn.git
-# cd noobzvpn/
-# ./install.sh
+```
+git clone https://github.com/diah082/noobzvpn.git && cd noobzvpn/ && ./install.sh
 ```
 ##### Full Uninstall
 ```bash
